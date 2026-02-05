@@ -1,0 +1,204 @@
+https://tree.opentreeoflife.org/curator/study/view/ot_1592?tab=trees&tree=tree1
+Daniel L. Rabosky, Jonathan Chang, Pascal O. Title, Peter F. Cowman, Lauren Sallan, Matt Friedman, Kristin Kaschner, Cristina Garilao, Thomas J. Near, Marta Coll, Michael E. Alfaro, 2018, 'An inverse latitudinal gradient in speciation rate for marine fishes', Nature, vol. 559, no. 7714, pp. 392-395
+http://dx.doi.org/10.1038/s41586-018-0273-1
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1091?tab=trees&tree=tree1
+Millicent D. Sanciangco, Kent E. Carpenter, Ricardo Betancur-R., 2016, 'Phylogenetic placement of enigmatic percomorph families (Teleostei: Percomorphaceae)', Molecular Phylogenetics and Evolution, vol. 94, pp. 565-576
+http://dx.doi.org/10.1016/j.ympev.2015.10.006
+
+https://tree.opentreeoflife.org/curator/study/view/pg_2651?tab=trees&tree=tree6177
+Betancur-R., Ricardo, Richard E. Broughton, Edward O. Wiley, Kent Carpenter, J. Andrés López, Chenhong Li, Nancy I. Holcroft, Dahiana Arcila, Millicent Sanciangco, James C Cureton II, Feifei Zhang, Thaddaeus Buser, Matthew A. Campbell, Jesus A Ballesteros, Adela Roa-Varon, Stuart Willis, W. Calvin Borden, Thaine Rowley, Paulette C. Reneau, Daniel J. Hough, Guoqing Lu, Terry Grande, Gloria Arratia, Guillermo Ortí. 2013. The Tree of Life and a New Classification of Bony Fishes. PLoS Currents
+http://dx.doi.org/10.1371/currents.tol.53ba26640df0ccaee75bb165c8c26288
+
+https://tree.opentreeoflife.org/curator/study/view/ot_2043?tab=trees&tree=tree1
+McCord, C. L., Nash, C. M., Cooper, W. J., & Westneat, M. W. (2021). Phylogeny of the damselfishes (Pomacentridae) and patterns of asymmetrical diversification in body size and feeding ecology. PLOS ONE, 16(10), e0258889. doi:10.1371/journal.pone.0258889
+
+http://dx.doi.org/10.1371/journal.pone.0258889
+
+https://tree.opentreeoflife.org/curator/study/view/ot_951?tab=trees&tree=tree1
+W. James Cooper, Lydia L. Smith, Mark W. Westneat, 2009, 'Exploring the radiation of a diverse reef fish family: Phylogenetics of the damselfishes (Pomacentridae), with new classifications based on molecular analyses of all genera', Molecular Phylogenetics and Evolution, vol. 52, no. 1, pp. 1-16
+http://dx.doi.org/10.1016/j.ympev.2008.12.010
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1560?tab=trees&tree=tree2
+Lei Yang, Tetsuya Sado, M. Vincent Hirt, Emmanuel Pasco-Viel, M. Arunachalam, Junbing Li, Xuzhen Wang, Jörg Freyhof, Kenji Saitoh, Andrew M. Simons, Masaki Miya, Shunping He, Richard L. Mayden, 2015, 'Phylogeny and polyploidy: Resolving the classification of cyprinine fishes (Teleostei: Cypriniformes)', Molecular Phylogenetics and Evolution, vol. 85, pp. 97-116
+http://dx.doi.org/10.1016/j.ympev.2015.01.014
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1147?tab=trees&tree=tree1
+S.J. Longo, B.C. Faircloth, A. Meyer, M.W. Westneat, M.E. Alfaro, P.C. Wainwright, 2017, 'Phylogenomic analysis of a rapid radiation of misfit fishes (Syngnathiformes) using ultraconserved elements', Molecular Phylogenetics and Evolution, vol. 113, pp. 33-48
+http://dx.doi.org/10.1016/j.ympev.2017.05.002
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1699?tab=trees&tree=tree1
+Lily C. Hughes, Guillermo Ortí, Yu Huang, Ying Sun, Carole C. Baldwin, Andrew W. Thompson, Dahiana Arcila, Ricardo Betancur-R., Chenhong Li, Leandro Becker, Nicolás Bellora, Xiaomeng Zhao, Xiaofeng Li, Min Wang, Chao Fang, Bing Xie, Zhuocheng Zhou, Hai Huang, Songlin Chen, Byrappa Venkatesh, Qiong Shi, 2018, 'Comprehensive phylogeny of ray-finned fishes (Actinopterygii) based on transcriptomic and genomic data', Proceedings of the National Academy of Sciences, vol. 115, no. 24, pp. 6249-6254
+http://dx.doi.org/10.1073/pnas.1719358115
+
+https://tree.opentreeoflife.org/curator/study/view/pg_1870?tab=trees&tree=tree3769
+Rüber, L., Kottelat M., Tan H., Ng P., & Britz R. 2007. Evolution of miniaturization and the phylogenetic position of Paedocypris, comprising the world's smallest vertebrate. BMC Evolutionary Biology 7 (38): 1-10.
+http://dx.doi.org/10.1186/1471-2148-7-38
+
+https://tree.opentreeoflife.org/curator/study/view/ot_3067?tab=trees&tree=tree1
+Tagliacollo, V. A., Tan, M., Reis, R. E., Gaia, R., Carrijo, V., Ranuzi, M., Craig, J. M., & Albert, J. S. (2024). Time-calibrated phylogeny of neotropical freshwater fishes. Frontiers in Bioinformatics, 4. https://doi.org/10.3389/fbinf.2024.1433995
+
+https://doi.org/10.3389/fbinf.2024.1433995
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1054?tab=trees&tree=tree1
+Arcila, Dahiana, Guillermo Ortí, Richard Vari, Jonathan W. Armbruster, Melanie L. J. Stiassny, Kyung D. Ko, Mark H. Sabaj, John Lundberg, Liam J. Revell, Ricardo Betancur-R., 2017, 'Genome-wide interrogation advances resolution of recalcitrant groups in the tree of life', Nature Ecology & Evolution, vol. 1, p. 0020
+http://dx.doi.org/10.1038/s41559-016-0020
+
+https://tree.opentreeoflife.org/curator/study/view/pg_2589?tab=trees&tree=tree6001
+Agorreta, Ainhoa, Diego San Mauro, Ulrich Schliewen, James L. Van Tassell, Marcelo Kovačić, Rafael Zardoya, Lukas Rüber. 2013. Molecular phylogenetics of Gobioidei and phylogenetic placement of European gobies. Molecular Phylogenetics and Evolution 69 (3): 619-633.
+http://dx.doi.org/10.1016/j.ympev.2013.07.017
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1078?tab=trees&tree=tree1
+Brett R. Aiello, Mark W. Westneat, Melina E. Hale, 2017, 'Mechanosensation is evolutionarily tuned to locomotor mechanics', Proceedings of the National Academy of Sciences, vol. 114, no. 17, pp. 4459-4464
+http://dx.doi.org/10.1073/pnas.1616839114
+
+https://tree.opentreeoflife.org/curator/study/view/ot_613?tab=trees&tree=tree1
+Mark W. Westneat, Michael E. Alfaro, 2005, 'Phylogenetic relationships and evolutionary history of the reef fish family Labridae', Molecular Phylogenetics and Evolution, vol. 36, no. 2, pp. 370-390
+http://dx.doi.org/10.1016/j.ympev.2005.02.001
+
+https://tree.opentreeoflife.org/curator/study/view/pg_2551?tab=trees&tree=tree6180
+Wainwright, P.C., Smith W.L., Price S.A., Tang K.L., Sparks J.S., Ferry L.A., Kuhn K.L., Eytan R.I., & Near T.J. 2012. The evolution of pharyngognathy: a phylogenetic and functional appraisal of the pharyngeal jaw key innovation in labroid fishes and beyond. Systematic Biology 61 (6): 1001-1027.
+http://dx.doi.org/10.1093/sysbio/sys060
+
+https://tree.opentreeoflife.org/curator/study/view/pg_2576?tab=trees&tree=tree5975
+Near, T. J., A. Dornburg, R. I. Eytan, B. P. Keck, W. L. Smith, K. L. Kuhn, J. A. Moore, S. A. Price, F. T. Burbrink, M. Friedman, P. C. Wainwright, 2013, 'Phylogeny and tempo of diversification in the superradiation of spiny-rayed fishes', Proceedings of the National Academy of Sciences, vol. 110, no. 31, pp. 12738-12743
+http://dx.doi.org/10.1073/pnas.1304661110
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1641?tab=trees&tree=tree1
+Michael E. Alfaro, Brant C. Faircloth, Richard C. Harrington, Laurie Sorenson, Matt Friedman, Christine E. Thacker, Carl H. Oliveros, David Černý, Thomas J. Near, 2018, 'Explosive diversification of marine fishes at the Cretaceous–Palaeogene boundary', Nature Ecology & Evolution, vol. 2, no. 4, pp. 688-696
+http://dx.doi.org/10.1038/s41559-018-0494-6
+
+https://tree.opentreeoflife.org/curator/study/view/pg_1997?tab=trees&tree=tree6183
+Near, T.J., Bossu C., Bradburd G.S., Carlson R.L., Harrington R.C., Hollingsworth Jr. P.R., Keck B.P., & Etnier D.A. 2011. Phylogeny and temporal diversification of darters (Percidae:  Etheostomatinae). Systematic Biology 60 (5): 565595.
+http://dx.doi.org/10.1093/sysbio/syr052
+
+https://tree.opentreeoflife.org/curator/study/view/pg_2655?tab=trees&tree=tree6181
+Friedman, M., B. P. Keck, A. Dornburg, R. I. Eytan, C. H. Martin, C. D. Hulsey, P. C. Wainwright, T. J. Near. 2013. Molecular and fossil evidence place the origin of cichlid fishes long after Gondwanan rifting. Proceedings of the Royal Society B: Biological Sciences 280 (1770): 20131733
+http://dx.doi.org/10.1098/rspb.2013.1733
+
+https://tree.opentreeoflife.org/curator/study/view/pg_2657?tab=trees&tree=tree6191
+Near, Thomas J., Michael Sandel, Kristen L. Kuhn, Peter J. Unmack, Peter C. Wainwright, Wm. Leo Smith. 2012. Nuclear gene-inferred phylogenies resolve the relationships of the enigmatic Pygmy Sunfishes, Elassoma (Teleostei: Percomorpha). Molecular Phylogenetics and Evolution 63 (2): 388-395.
+http://dx.doi.org/10.1016/j.ympev.2012.01.011
+
+https://tree.opentreeoflife.org/curator/study/view/pg_2653?tab=trees&tree=tree6178
+Miya, Masaki, Matt Friedman, Takashi P. Satoh, Hirohiko Takeshima, Tetsuya Sado, Wataru Iwasaki, Yusuke Yamanoue, Masanori Nakatani, Kohji Mabuchi, Jun G. Inoue, Jan Yde Poulsen, Tsukasa Fukunaga, Yukuto Sato, Mutsumi Nishida. 2013. Evolutionary Origin of the Scombridae (Tunas and Mackerels): Members of a Paleogene Adaptive Radiation with 14 Other Pelagic Fish Families. PLoS ONE 8 (9): e73535.
+http://dx.doi.org/10.1371/journal.pone.0073535
+
+https://tree.opentreeoflife.org/curator/study/view/pg_2659?tab=trees&tree=tree6195
+Chen, Wei-Jen, Sébastien Lavoué, and Richard L. Mayden. 2013. Evolutionary origin and early biogeography of otophysan fishes (Ostariophysi: Teleostei). Evolution 67 (8): 2218–2239.
+http://dx.doi.org/10.1111/evo.12104
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1537?tab=trees&tree=tree1
+Victor A. Tagliacollo, Maxwell J. Bernt, Jack M. Craig, Claudio Oliveira, James S. Albert, 2016, 'Model-based total evidence phylogeny of Neotropical electric knifefishes (Teleostei, Gymnotiformes)', Molecular Phylogenetics and Evolution, vol. 95, pp. 20-33
+http://dx.doi.org/10.1016/j.ympev.2015.11.007
+
+https://tree.opentreeoflife.org/curator/study/view/pg_2585?tab=trees&tree=tree5994
+Santini, Francesco, Laurie Sorenson, Michael E. Alfaro. 2013. A new phylogeny of tetraodontiform fishes (Tetraodontiformes, Acanthomorpha) based on 22 loci. Molecular Phylogenetics and Evolution 69 (1): 177-187.
+http://dx.doi.org/10.1016/j.ympev.2013.05.014
+
+https://tree.opentreeoflife.org/curator/study/view/ot_627?tab=trees&tree=tree1
+Lundberg, J.G. (1992). The phylogeny of ictalurid catfishes: A synthesis of recent work. In Systematics, Historical Ecology, and North American Freshwater Fishes (R. I. Mayden, Ed.) pp. 392-420. 
+https://books.google.com/books?id=t0urAAAAIAAJ&pg=PA392&lpg=PA392&dq=%22the+phylogeny+of+ictalurid+catfishes:+a+synthesis&source=bl&ots=JlQq8UiviJ&sig=inJk4j125nRH3KbspGUx1MJn2so&hl=en&sa=X&ved=0ahUKEwj8uOb6n4nLAhUBqB4KHQmhBNEQ6AEILDAC#v=onepage&q=%22the%20phylogeny%20of%20ictalurid%20catfishes%3A%20a%20synthesis&f=false
+
+https://tree.opentreeoflife.org/curator/study/view/ot_526?tab=trees&tree=Tr91777
+Lundberg J.G., Sullivan J., Rodiles-hernandez R., & Hendrickson D. 2007. Discovery of African roots for the Mesoamerican Chiapas catfish, Lacantunia enigmatica, requires an ancient intercontinental passage. Proceedings of the Academy of Natural Sciences of Philadelphia, 156: 39-53.
+http://dx.doi.org/10.1635/0097-3157(2007)156[39:doarft]2.0.co;2
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1342?tab=trees&tree=tree1
+Prosanta Chakrabarty, Brant C. Faircloth, Fernando Alda, William B. Ludt, Caleb D. Mcmahan, Thomas J. Near, Alex Dornburg, James S. Albert, Jairo Arroyave, Melanie L. J. Stiassny, Laurie Sorenson, Michael E. Alfaro, 2017, 'Phylogenomic Systematics of Ostariophysan Fishes: Ultraconserved Elements Support the Surprising Non-Monophyly of Characiformes', Systematic Biology, vol. 66, no. 6, pp. 881-895
+http://dx.doi.org/10.1093/sysbio/syx038
+
+https://tree.opentreeoflife.org/curator/study/view/ot_952?tab=trees&tree=tree1
+P. F. COWMAN, D. R. BELLWOOD, 2011, 'Coral reefs as drivers of cladogenesis: expanding coral reefs, cryptic extinction events, and the development of biodiversity hotspots', Journal of Evolutionary Biology, vol. 24, no. 12, pp. 2543-2562
+http://dx.doi.org/10.1111/j.1420-9101.2011.02391.x
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1212?tab=trees&tree=tree12
+Pohl, M., Milvertz, F. C., Meyer, A., & Vences, M. (2015). Multigene phylogeny of cyprinodontiform fishes suggests continental radiations and a rogue taxon position of Pantanodon. Vertebrate Zoology, 65(1), 37-44.
+
+
+https://tree.opentreeoflife.org/curator/study/view/ot_2001?tab=trees&tree=tree1
+Alexandrou, M. A., Swartz, B. A., Matzke, N. J., & Oakley, T. H. (2013). Genome duplication and multiple evolutionary origins of complex migratory behavior in Salmonidae. Molecular Phylogenetics and Evolution, 69(3), 514–523. doi:10.1016/j.ympev.2013.07.026
+
+http://dx.doi.org/10.1016/j.ympev.2013.07.026
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1384?tab=trees&tree=tree1
+Jose Tavera, Arturo Acero P., Peter C. Wainwright, 2018, 'Multilocus phylogeny, divergence times, and a major role for the benthic-to-pelagic axis in the diversification of grunts (Haemulidae)', Molecular Phylogenetics and Evolution, vol. 121, pp. 212-223
+http://dx.doi.org/10.1016/j.ympev.2017.12.032
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1112?tab=trees&tree=tree1
+Daniela Campanella, Lily C. Hughes, Peter J. Unmack, Devin D. Bloom, Kyle R. Piller, Guillermo Ortí, 2015, 'Multi-locus fossil-calibrated phylogeny of Atheriniformes (Teleostei, Ovalentaria)', Molecular Phylogenetics and Evolution, vol. 86, pp. 8-23
+http://dx.doi.org/10.1016/j.ympev.2015.03.001
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1972?tab=trees&tree=tree1
+Burns, M. D., & Sidlauskas, B. L. (2019). Ancient and contingent body shape diversification in a hyperdiverse continental fish radiation. Evolution, 73(3), 569–587. doi:10.1111/evo.13658
+
+http://dx.doi.org/10.1111/evo.13658
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1973?tab=trees&tree=tree2
+Mirande, J. M. (2018). Morphology, molecules and the phylogeny of Characidae (Teleostei, Characiformes). Cladistics, 35(3), 282–300. doi:10.1111/cla.12345
+
+http://dx.doi.org/10.1111/cla.12345
+
+https://tree.opentreeoflife.org/curator/study/view/ot_979?tab=trees&tree=tree1
+Harrington, Richard C., Brant C. Faircloth, Ron I. Eytan, W. Leo Smith, Thomas J. Near, Michael E. Alfaro, Matt Friedman. 2016. Phylogenomic analysis of carangimorph fishes reveals flatfish asymmetry arose in a blink of the evolutionary eye. BMC Evolutionary Biology 16: 224
+http://dx.doi.org/10.1186/s12862-016-0786-x
+
+https://tree.opentreeoflife.org/curator/study/view/ot_935?tab=trees&tree=tree2
+Peter Rask Møller, Steen Wilhelm Knudsen, Werner Schwarzhans, Jørgen G. Nielsen, 2016, 'A new classification of viviparous brotulas (Bythitidae) – with family status for Dinematichthyidae – based on molecular, morphological and fossil data', Molecular Phylogenetics and Evolution, vol. 100, pp. 391-408
+http://dx.doi.org/10.1016/j.ympev.2016.04.008
+
+https://tree.opentreeoflife.org/curator/study/view/ot_955?tab=trees&tree=tree1
+F. Santini, M. T. T. Nguyen, L. Sorenson, T. B. Waltzek, J. W. Lynch Alfaro, J. M. Eastman, M. E. Alfaro, 2013, 'Do habitat shifts drive diversification in teleost fishes? An example from the pufferfishes (Tetraodontidae)', Journal of Evolutionary Biology, vol. 26, no. 5, pp. 1003-1018
+http://dx.doi.org/10.1111/jeb.12112
+
+https://tree.opentreeoflife.org/curator/study/view/ot_523?tab=trees&tree=tree1
+McCord, Charlene L., Mark W. Westneat. 2016. Phylogenetic relationships and the evolution of BMP4 in triggerfishes and filefishes (Balistoidea). Molecular Phylogenetics and Evolution 94: 397-409
+http://dx.doi.org/10.1016/j.ympev.2015.09.014
+
+https://tree.opentreeoflife.org/curator/study/view/ot_2202?tab=trees&tree=tree2
+Peterson, Rose D., et al. "Phylogenomics of Bony-Tongue Fishes (Osteoglossomorpha) Shed Light on the Craniofacial Evolution and Biogeography of the Weakly Electric Clade (Mormyridae)." Systematic Biology (2022).
+
+https://doi.org/10.1093/sysbio/syac001
+
+https://tree.opentreeoflife.org/curator/study/view/ot_2088?tab=trees&tree=Tr64618
+Diepeveen, E. T., Kim, F. D., & Salzburger, W. (2013). Sequence analyses of the distal-less homeobox gene family in East African cichlid fishes reveal signatures of positive selection. BMC Evolutionary Biology, 13(1), 153. https://doi.org/10.1186/1471-2148-13-153
+
+http://dx.doi.org/10.1186/1471-2148-13-153
+
+https://tree.opentreeoflife.org/curator/study/view/ot_771?tab=trees&tree=tree1
+Martin Malmstrøm, Michael Matschiner, Ole K Tørresen, Bastiaan Star, Lars G Snipen, Thomas F Hansen, Helle T Baalsrud, Alexander J Nederbragt, Reinhold Hanel, Walter Salzburger, Nils C Stenseth, Kjetill S Jakobsen, Sissel Jentoft, 2016, 'Evolution of the immune system influences speciation rates in teleost fishes', Nature Genetics
+http://dx.doi.org/10.1038/ng.3645
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1810?tab=trees&tree=tree1
+Adeljean L.F.C. Ho, Christin L. Pruett, Junda Lin, 2016, 'Phylogeny and biogeography of Poecilia (Cyprinodontiformes: Poeciliinae) across Central and South America based on mitochondrial and nuclear DNA markers', Molecular Phylogenetics and Evolution, vol. 101, pp. 32-45
+http://dx.doi.org/10.1016/j.ympev.2016.04.032
+
+https://tree.opentreeoflife.org/curator/study/view/ot_590?tab=trees&tree=tree1
+ALAN H. BORNBUSCH, 1995, 'Phylogenetic relationships within the Eurasian catfish family Siluridae (Pisces: Siluriformes), with comments on generic validities and biogeography', Zoological Journal of the Linnean Society, vol. 115, no. 1, pp. 1-46
+http://dx.doi.org/10.1111/j.1096-3642.1995.tb02322.x
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1640?tab=trees&tree=tree1
+Shang-Yin Vanson Liu, Bruno Frédérich, Sébastien Lavoué, Jonathan Chang, Mark V. Erdmann, Gusti Ngurah Mahardika, Paul H. Barber, 2018, 'Buccal venom gland associates with increased of diversification rate in the fang blenny fish  Meiacanthus  (Blenniidae; Teleostei)', Molecular Phylogenetics and Evolution, vol. 125, pp. 138-146
+http://dx.doi.org/10.1016/j.ympev.2018.03.027
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1496?tab=trees&tree=tree1
+Richard C. Harrington, Thomas J. Near, 2015, 'Phylogenetic relationships of Goneaperca and the evolution of parental care in darters (Teleostei: Percidae)', Molecular Phylogenetics and Evolution, vol. 84, pp. 158-165
+http://dx.doi.org/10.1016/j.ympev.2015.01.002
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1552?tab=trees&tree=tree1
+Francesco Santini, Laurie Sorenson, Michael E. Alfaro, 2016, 'Phylogeny and biogeography of hogfishes and allies ( Bodianus , Labridae)', Molecular Phylogenetics and Evolution, vol. 99, pp. 1-6
+http://dx.doi.org/10.1016/j.ympev.2016.02.011
+
+https://tree.opentreeoflife.org/curator/study/view/ot_2217?tab=trees&tree=tree1
+Li, C., Olave, M., Hou, Y., Qin, G., Schneider, R. F., Gao, Z., Tu, X., Wang, X., Qi, F., Nater, A., Kautt, A. F., Wan, S., Zhang, Y., Liu, Y., Zhang, H., Zhang, B., Zhang, H., Qu, M., Liu, S., … Lin, Q. (2021). Genome sequences reveal global dispersal routes and suggest convergent genetic adaptations in seahorse evolution. Nature Communications, 12(1). https://doi.org/10.1038/s41467-021-21379-x
+
+http://dx.doi.org/10.1038/s41467-021-21379-x
+
+https://tree.opentreeoflife.org/curator/study/view/ot_805?tab=trees&tree=tree1
+Lourie, Sara (2016) Seahorses: a life-size guide to every species. Ivy Press, UK (ISBN 978-1-78240-321-0)
+http://press.uchicago.edu/ucp/books/book/chicago/S/bo23519815.html
+
+https://tree.opentreeoflife.org/curator/study/view/ot_1167?tab=trees&tree=tree2
+Julia J. Day, Antoine Fages, Katherine J. Brown, Emmanuel J. Vreven, Melanie L. J. Stiassny, Roger Bills, John P. Friel, Lukas Rüber, 2017, 'Multiple independent colonizations into the Congo Basin during the continental radiation of African Mastacembelus
+ spiny eels', Journal of Biogeography
+http://dx.doi.org/10.1111/jbi.13037
