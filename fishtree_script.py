@@ -40,6 +40,8 @@ payload = { "node_ids" : list(translation_dict.keys())}
 
 resp = requests.post(url=url, data=json.dumps(payload))
 
+assert(resp.status_code==200)
+
 resp_dict = resp.json()
 
 ## Somehwat annoyingly, the repsonse always has a 'list' of trees, even where there is only one tree
